@@ -19,6 +19,7 @@ In order to navigate, please check the notebooks in the notebooks/Python folder.
 - Hashtags analysis
 - Graph analysis
 - Propagation modeling
-- Features extractio
+- Features extraction
+- Machine Learning for prediction
 
 A short report summarize all the work in the report folder.
