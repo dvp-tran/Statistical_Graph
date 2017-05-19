@@ -1,8 +1,8 @@
 # Statistical_Graph : Virality prediction in social networks
 
 -------------------------------
-### data source :
-  http://carl.cs.indiana.edu/data/#virality2013
+
+### data source : http://carl.cs.indiana.edu/data/#virality2013
 
 
 ## Context and motivations:
@@ -19,4 +19,6 @@ In order to navigate, please check the notebooks in the notebooks/Python folder.
 - Hashtags analysis
 - Graph analysis
 - Propagation modeling
-- Features extraction
+- Features extractio
+
+A short report summarize all the work in the report folder.
